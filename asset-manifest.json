@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bingo-world-cup/static/css/main.f4a8a98d.css",
+    "main.js": "/bingo-world-cup/static/js/main.6d827a0b.js",
+    "static/media/bingo_world_cup.png": "/bingo-world-cup/static/media/bingo_world_cup.070a11f714156d5ec4de.png",
+    "static/media/world_cup.png": "/bingo-world-cup/static/media/world_cup.8883c6c62cec9c6a88b1.png",
+    "static/media/france.png": "/bingo-world-cup/static/media/france.fd42a2b9fca145bcc934.png",
+    "static/media/uruguay.png": "/bingo-world-cup/static/media/uruguay.4c7a9ca4ca329d9b9f65.png",
+    "static/media/argentina.png": "/bingo-world-cup/static/media/argentina.ad5bb325b7099850bef0.png",
+    "static/media/spain.png": "/bingo-world-cup/static/media/spain.151aea08cdaf540312fb.png",
+    "static/media/england.png": "/bingo-world-cup/static/media/england.bdac50228b96dbf14925.png",
+    "static/media/italy.png": "/bingo-world-cup/static/media/italy.f6dd96bc6b043bfc6f0a.png",
+    "static/media/germany.png": "/bingo-world-cup/static/media/germany.a4663636f185516bbc00.png",
+    "static/media/brazil.png": "/bingo-world-cup/static/media/brazil.197d8bdc6be74b675c16.png",
+    "static/media/cancelled.png": "/bingo-world-cup/static/media/cancelled.164d9ce64f2785905f04.png",
+    "index.html": "/bingo-world-cup/index.html",
+    "main.f4a8a98d.css.map": "/bingo-world-cup/static/css/main.f4a8a98d.css.map",
+    "main.6d827a0b.js.map": "/bingo-world-cup/static/js/main.6d827a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a8a98d.css",
+    "static/js/main.6d827a0b.js"
+  ]
+}
