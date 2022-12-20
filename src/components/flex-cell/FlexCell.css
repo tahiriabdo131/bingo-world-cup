@@ -1,0 +1,77 @@
+.flex-cell {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 140px;
+  height: 85px;
+  padding: 5px;
+  border: 2px solid var(--primaryColor);
+  border-radius: 5px;
+  background: var(--lightColor);
+  text-transform: capitalize;
+}
+
+.circle-selector {
+  position: absolute;
+  z-index: 2000;
+  border-radius: 100%;
+  border: 5px solid blue;
+  opacity: 0.5;
+  width: 4.5vmax;
+  height: 4.5vmax;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+.flex-cell:hover {
+  background-color: var(--secondColor);
+}
+
+.flex-cell:hover .circle-selector {
+  visibility: visible;
+}
+
+.free-space {
+  cursor: default;
+  background-color: var(--forthColor);
+}
+
+.free-space:hover {
+  background-color: var(--forthColor);
+}
+
+.free-space .circle-selector,
+.checked .circle-selector {
+  visibility: visible;
+}
+
+img {
+  width: 55px;
+  height: 70px;
+  object-fit: cover;
+}
+
+.free-space img {
+  width: 80px;
+  height: 100px;
+}
+
+@media only screen and (max-width: 767px) {
+  .flex-cell {
+    width: 70px;
+    height: 45px;
+    padding: 3px;
+    border-radius: 3px;
+  }
+
+  img {
+    width: 20px;
+    height: 25px;
+  }
+  .free-space img {
+    width: 40px;
+    height: 50px;
+  }
+}
