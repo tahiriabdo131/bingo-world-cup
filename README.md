@@ -2,12 +2,11 @@
 
 To consult the live demo please visit [Bingo World Cup demo live](https://tahiriabdo131.github.io/bingo-world-cup/).
 
-## Runs the app in the development mode.\
+## Runs the app
 
 ```sh
 npm install
-npm start
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+npm start -o
 ```
 
 ## Introduction
@@ -40,7 +39,7 @@ https://user-images.githubusercontent.com/56969009/207741654-cefe160c-c73d-49e7-
 ### Description
 WE are in the period of the World Cup and it's the subject of our day.
 So I think about creating a BINGO game that show all the years and the winners of this combitions from it's beginnig in 1930 until this version 2022 (22 times + 2 times cancelled)
-I created a fake API for the years and the winners, to consult it you can visite the link [API World Cup](https://tahiriabdo131.github.io/fake-api-world-cup-winners/winners.json).
+I created a fake API for the years and the winners, to consult it you can visite the link [API World Cup](https://fake-api-ip4o.onrender.com/api/world-cup-winners).
 
 ### Rules
 
@@ -55,3 +54,10 @@ I created a fake API for the years and the winners, to consult it you can visite
 
 ### Tools
 - HTML5, CSS3, React js, Hooks (useState, useEffect, useSelector), redux, API...
+
+
+## Resources
+
+```sh
+Fake API : (https://fake-api-ip4o.onrender.com/api/world-cup-winners).
+```
