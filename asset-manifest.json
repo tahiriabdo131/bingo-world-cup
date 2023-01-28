@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bingo-world-cup/static/css/main.f4a8a98d.css",
-    "main.js": "/bingo-world-cup/static/js/main.6d827a0b.js",
+    "main.js": "/bingo-world-cup/static/js/main.36f7eeb3.js",
     "static/media/bingo_world_cup.png": "/bingo-world-cup/static/media/bingo_world_cup.070a11f714156d5ec4de.png",
     "static/media/world_cup.png": "/bingo-world-cup/static/media/world_cup.8883c6c62cec9c6a88b1.png",
     "static/media/france.png": "/bingo-world-cup/static/media/france.fd42a2b9fca145bcc934.png",
@@ -15,10 +15,10 @@
     "static/media/cancelled.png": "/bingo-world-cup/static/media/cancelled.164d9ce64f2785905f04.png",
     "index.html": "/bingo-world-cup/index.html",
     "main.f4a8a98d.css.map": "/bingo-world-cup/static/css/main.f4a8a98d.css.map",
-    "main.6d827a0b.js.map": "/bingo-world-cup/static/js/main.6d827a0b.js.map"
+    "main.36f7eeb3.js.map": "/bingo-world-cup/static/js/main.36f7eeb3.js.map"
   },
   "entrypoints": [
     "static/css/main.f4a8a98d.css",
-    "static/js/main.6d827a0b.js"
+    "static/js/main.36f7eeb3.js"
   ]
 }
