@@ -1,1 +1,1 @@
-export const API_URL = "https://fake-api-ip4o.onrender.com/api/world-cup-winners";
+export const API_URL = "https://tahiriabdo131.github.io/fake-api/db.json";

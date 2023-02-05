@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/56969009/207741654-cefe160c-c73d-49e7-
 ### Description
 WE are in the period of the World Cup and it's the subject of our day.
 So I think about creating a BINGO game that show all the years and the winners of this combitions from it's beginnig in 1930 until this version 2022 (22 times + 2 times cancelled)
-I created a fake API for the years and the winners, to consult it you can visite the link [API World Cup](https://fake-api-ip4o.onrender.com/api/world-cup-winners).
+I created a fake API for the years and the winners, to consult it you can visite the link [API World Cup](https://tahiriabdo131.github.io/fake-api/db.json).
 
 ### Rules
 
@@ -59,5 +59,5 @@ I created a fake API for the years and the winners, to consult it you can visite
 ## Resources
 
 ```sh
-Fake API : (https://fake-api-ip4o.onrender.com/api/world-cup-winners).
+Fake API : (https://tahiriabdo131.github.io/fake-api/db.json).
 ```

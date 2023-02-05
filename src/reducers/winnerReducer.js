@@ -13,7 +13,7 @@ const winnerReducer = (state = initalState, action) => {
         case GET_WINNERS:
             return {
                 ...state,
-                winners: action.payload,
+                winners: action.payload.worldCupWinners,
             }
         case ADD_TO_SELECTED:
             if (state.selctedIndexs && !state.selctedIndexs.includes(action.payload)) {
